@@ -1,5 +1,13 @@
 # typecho-gitwidget
 
+### Forked from <https://gitee.com/SimonH/typecho-gitwidget>
+
+### 作者
+
+Simon.H
+
+### 介绍
+
 很简单的插件，用来在Typecho文章中显示Git项目小挂件，目前支持Gitee码云、Github
 
 Github使用的是[JoelSutherland/GitHub-jQuery-Repo-Widget](https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget)
